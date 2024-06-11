@@ -1,0 +1,36 @@
+{
+  "user": [
+    {
+      "id": 3,
+      "name": "Hai",
+      "email": "hai@gmail.com",
+      "phone": "0125",
+      "status": "true",
+      "created_at": "2015-06-03"
+    },
+    {
+      "id": 4,
+      "name": "Hong",
+      "email": "hong@gmail.com",
+      "phone": "0126",
+      "status": "true",
+      "created_at": "2015-06-04"
+    },
+    {
+      "id": 6,
+      "name": "Nhung",
+      "email": "nhung@gmail.com",
+      "phone": "0127",
+      "status": "true",
+      "created_at": "2015-06-07"
+    },
+    {
+      "id": 7,
+      "name": "New Student",
+      "email": "newstudent@gmail.com",
+      "phone": "0128",
+      "status": "true",
+      "created_at": "2024-06-11"
+    }
+  ]
+}
